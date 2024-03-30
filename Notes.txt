@@ -1,0 +1,16 @@
+https://github.com/okazkayasi/CS7641/blob/master/mkazkayasi3_Assignment1/wine_dataset.csv
+
+sign language: https://github.com/auimendoza/cs7641-omscs-a1
+https://www.kaggle.com/datasets/datamunge/sign-language-mnist/data
+https://www.kaggle.com/competitions/playground-series-s4e1/data
+
+
+active competition: https://www.kaggle.com/competitions/playground-series-s4e1
+
+https://github.com/spatel12/cs7641-assignment2/blob/main/ro_experiments.ipynb
+https://www.kaggle.com/code/makhil2008/cs7641-randomized-optimization-part-1#Continous-Peak
+https://medium.com/@duoduoyunnini/introduction-implementation-and-comparison-of-four-randomized-optimization-algorithms-fc4d96f9feea
+https://github.com/ezerilli/Machine_Learning/blob/master/Randomized_Optimization/run_experiments.py
+
+
+https://edstem.org/us/courses/51727/discussion/4363366?comment=10108018
